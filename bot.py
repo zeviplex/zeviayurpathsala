@@ -12,7 +12,7 @@ query_to_pdf = {
     "treatment of cold": "pdfs/cold_treatment.pdf",
     "ayurvedic remedies": "pdfs/ayurvedic_remedies.pdf",
     "some other query": "pdfs/some_other.pdf",
-    "Panchakarma(Short book)@Bamsbooksin": "pdf/Panchakarma(Short book)@Bamsbooksin.pdf",
+    "Panchakarma": "pdf/Panchakarma(Short book)@Bamsbooksin.pdf",
     # Add mappings for all your PDF files (100 PDFs)
     # For example:
     "keyword1": "pdfs/pdf1.pdf",
